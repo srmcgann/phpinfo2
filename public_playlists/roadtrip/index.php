@@ -251,7 +251,7 @@
     </style>
   </head>
   <body>
-    <div class="headerLogo" onclick="window.location.href='/'" title="go to homepage"></div>
+    <div class="headerLogo" onclick="window.location.href='/public_playlists'" title="go to homepage"></div>
     <div class="bg_overlay"></div>
     <div id="addTrackModal" class="modal">
       <input
