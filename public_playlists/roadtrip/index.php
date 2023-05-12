@@ -482,8 +482,8 @@
       postMessage=msg=>{
         let el
         (el = document.querySelectorAll('.playerFrame')[0])
-        if(el.src.indexOf('https://phpiinfo2.herokuapp.com/') != -1){
-          el.contentWindow.postMessage(msg, 'https://phpiinfo2.herokuapp.com/')
+        if(el.src.indexOf('index.php') != -1){
+          el.contentWindow.postMessage(msg, '*')
         }
       }
       window.addEventListener('message', e => {
