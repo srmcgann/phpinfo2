@@ -2,7 +2,7 @@
   chdir("../roadtrip/tracks");
   echo shell_exec("rm temp.zip 2>&1");
 
-  echo shell_exec("wget https://www.dropbox.com/s/6qlblrt0dic49bw/tracks.zip?dl=0 -O temp.zip 2>&1");
+  echo shell_exec("wget https://www.dropbox.com/s/6qlblrt0dic49bw/tracks.zip?dl=0 -O temp.zip 2>&1 &");
   //echo shell_exec("wget https://www.dropbox.com/s/07gzev10vtctk6g/temp.zip.002?raw=1 -O temp.zip.002 2>&1");
   //echo shell_exec("wget https://www.dropbox.com/s/p588lmnqxnyfp3f/temp.zip.003?raw=1 -O temp.zip.003 2>&1");
   //echo shell_exec("wget https://www.dropbox.com/s/3ys4t6jckwep3fo/temp.zip.004?raw=1 -O temp.zip.004 2>&1");
