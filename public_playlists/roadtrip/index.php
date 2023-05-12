@@ -487,6 +487,7 @@
         }
       }
       window.addEventListener('message', e => {
+        console.log(e)
         const key = e.message ? 'message' : 'data';
         const data = e[key];
         switch(data){
