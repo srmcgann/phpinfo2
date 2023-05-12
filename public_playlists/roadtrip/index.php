@@ -482,8 +482,8 @@
       postMessage=msg=>{
         let el
         (el = document.querySelectorAll('.playerFrame')[0])
-        if(el.src.indexOf('https://audioplayer.herokuapp.com/') != -1){
-          el.contentWindow.postMessage(msg, 'https://audioplayer.herokuapp.com/')
+        if(el.src.indexOf('https://phpiinfo2.herokuapp.com/') != -1){
+          el.contentWindow.postMessage(msg, 'https://phpiinfo2.herokuapp.com/')
         }
       }
       window.addEventListener('message', e => {
