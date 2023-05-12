@@ -448,6 +448,8 @@
       }
       
       playTrack=idx=>{
+        let src = '/index.php/' + window.location.href + tracks[idx] + (userInteracted ? '?autoplay' : '')
+        console.log(idx, userInteracted, src)
         let el
         (el = document.querySelectorAll('.playerFrame')[0])
         preloadNext()
