@@ -510,33 +510,12 @@
         allWords = e.checked
       }
 
-      tracks = ['419 Tessa Violet - Breakdown.mp3','CAKE - Never There-FRZzUh9hcTo.mp3','GLME _BLOSSOM_ (Official Video).mp3.webp','Massive Attack - Butterfly Caught.mp3','Sally Walker - Iggy Azalea (Lyrics) .mp3'
-	      '419 Tessa Violet - Breakdown.mp3.webp','CHROMATICS CHERRY (Official Video).mp3','GLME _BODY_ (Official Video).mp3','Massive Attack - Dissolved girl.mp3','San Tropez-Cv5uuhkS4j8.mp3'
-	      'Abba - Honey, Honey (1976).mp3','CHROMATICS SHADOW (Official Video).mp3','GLME _BODY_ (Official Video).mp3.webp','Miley Cyrus - The Climb.mp3.webp','She - Green Day-OnF0pkWD2Tc.mp3'
-	      'A Final Hit-ZiM-MBpe8gY.mp3','CHVRCHES - Clearest Blue-BZyzX4c1vIs.mp3','GLUME DO ME A FAVOR.mp3','Morning Train (Nine to Five).mp3','Stairway to Heaven (Remaster).mp3.webp'
-	      'Air - Mike Mills-P-DnNRlEYuc.mp3','CHVRCHES - Graffiti-LDSVLQoPc8w.mp3','GLUME DO ME A FAVOR.mp3.webp','Morning Train (Nine to Five).mp3.webp' Strongman-GbHUAFd5Xcw.mp3
-	      'Air - Radian-ipBhCk4Rfss.mp3','Cocteau Twins Alice HD-Sy2o6dzE9w8.mp3','Group Four.mp3','Morrissey - Everyday is like sunday.mp3','Sunday Girl (Remastered)-7VWalYqwKIA.mp3'
-	      'Alone in Kyoto-I0SVd_Q5wIg.mp3','David Bowie - Golden Years.mp3','Group Four.mp3.webp','No Doubt - Its My Life (Edited).mp3','Surfing on a Rocket-0y3s38pZWY0.mp3'
-	      'Animotion - Obsession.mp3','David Bowie - Rebel Rebel TopPop.mp3','Gucci Gucci.mp3.webp','No Doubt - Its My Life (Edited).mp3.webp','Taylor Swift - Style--CmadmM5cOk.mp3'
-	      'Annachie Gordon.mp3','Dead Can Dance- Rakim.mp3','Heart-Magic Man-3vlAdMeZSfw.mp3','Only in My Dreams-2V-J7nYNjlI.mp3' temp.zip
-	      'Annachie Gordon.mp3.webp','Dead Can Dance- Rakim.mp3.webp','Hello, Goodbye (Remastered 2009).mp3','On Melancholy Hill-p00v9ZFhWJM.mp3','Ten Years Gone (1990 Remaster).mp3'
-	      'Aphex Twin - Iz us-dLHtV_S2HZw.mp3','Diesel Power-Sya5rhtTJw8.mp3','Hey Ya!-Jx_O6PHdWww.mp3' "Opus III-It's A Fine Day HQ.mp3" 'That Poppy - Money-BN5me-2CZWw.mp3'
-	      'AURORA - Exist For Love-7YDkrJaiCrw.mp3','Doja Cat - MOOO! (Audio).mp3','High Roller-_1aCB2hbMFg.mp3' "Opus III-It's A Fine Day HQ.mp3.webp" 'The Climb - Miley Cyrus (Lyrics) .mp3'
-	      'A Warm Place-Yld7Fs-VfRE.mp3' Dreaming-_xko4lzzWPM.mp3 'Hoedown Throwdown.mp3','Orinoco Flow (2009 Remaster).mp3','The Everly Brothers Til I Kissed You.mp3'
-	      'Belly - Feed The Tree.mp3' Escape-PKL5wOwXX6A.mp3 'Hoedown Throwdown.mp3.webp','Orinoco Flow (2009 Remaster).mp3.webp','The Monkees _ Daydream Believer (HQ).mp3'
-	      'bjrk _ army of me (HD).mp3','Everly Brothers Let it be me.mp3','JOON _CRUEL SUMMER_ (Official Video).mp3','Pale 3 - The Roof.mp3' "The Prodigy - 'Breathe'.mp3"
-	      'bjrk _ army of me (HD).mp3.webp','Everly Brothers - Love Hurts.mp3','Katy Perry - Hot N Cold (Official).mp3','Peter Gabriel - In Your Eyes.mp3','The Rain Song (Remaster).mp3'
-	      'bjrk _ atopos.mp3.webp','Everly Brothers When Will I Be Loved.mp3' "L7 - Pretend We're Dead-NAdlZ2F-fs8.mp3" Pets-mFkRvF8MeYM.mp3 'The Staunton Lick-6Ls_XYQuGJU.mp3'
-	      'bjrk _ human behaviour (HD).mp3','Everything In Its Right Place.mp3','Lenny Kravitz - Fly Away-EvuL5jyCHOw.mp3','Pink Floyd - Breathe.mp3','This Heaven-37azjWGlk2s.mp3'
-	      'bjrk _ human behaviour (HD).mp3.webp','Everything In Its Right Place.mp3.webp','Lorde - Team-f2JuxM-snGc.mp3','Pink Floyd - Time (2011 Remastered).mp3' "Tom Petty - Free Fallin'-1lWJXDG2i0A.mp3"
-	      'Bjrk - Hyperballad.mp3' Exchange.mp3 'Lost Like Innocence.mp3' pw 'Veruca Salt Seether.mp3'
-	      'bjrk _ possibly maybe (HD).mp3' Exchange.mp3.webp 'Lost Like Innocence.mp3.webp','Radiohead - Pyramid Song.mp3','Veruca Salt Seether.mp3.webp'
-	      'bjrk _ possibly maybe (HD).mp3.webp','Fischerspooner - Emerge-217CdX7Z2tM.mp3','Lou Reed - Perfect Day (Audio).mp3','Rakim (Live Remastered).mp3','When the Levee Breaks (Remaster).mp3'
-	      'bjrk_ utopia.mp3.webp','Fly with me.mp3','Magdalena Bay - Domino.mp3','Rapture (Remastered 2001).mp3','XTC - Another Satellite [HD].mp3'
-	      'Black Dog (Remaster).mp3','Free Four-FPSb5QjgjAc.mp3','Magdalena Bay - El Dorado.mp3','Rapture (Remastered 2001).mp3.webp','XTC - Mayor of Simpleton-5Da9sc6YDBo.mp3'
-	      'Black Dog (Remaster).mp3.webp','Futurama Theme Song.mp3','Magdalena Bay - Killshot.mp3','Rosemary (2013 Remaster)-KrLkH3NZWBw.mp3'
-	      'BLONDIE - Maria-Mp8FF6AMZjE.mp3','Futurama Theme Song.mp3.webp','Magdalena Bay - Killshot.mp3.webp','Ruby Tuesday.mp3'
-	      'Blondie - Picture This.mp3','GLME _BLOSSOM_ (Official Video).mp3','massive attack - black milk.mp3','Ruby Tuesday.mp3.webp']
+
+      tracks = ['419 Tessa Violet - Breakdown.mp3','Katy Perry - Hot N Cold (Official).mp3','Massive Attack - Dissolved girl.mp3','Pink Floyd - Time (2011 Remastered).mp3',
+	      'Air - Mike Mills-P-DnNRlEYuc.mp3','Lost Like Innocence.mp3',"Opus III-It's A Fine Day HQ.mp3" 'Radiohead - Pyramid Song.mp3','Ten Years Gone (1990 Remaster).mp3',
+	      'Alone in Kyoto-I0SVd_Q5wIg.mp3','massive attack - black milk.mp3','Orinoco Flow (2009 Remaster).mp3','Rapture (Remastered 2001).mp3','The Staunton Lick-6Ls_XYQuGJU.mp3',
+	      'Animotion - Obsession.mp3','Massive Attack - Butterfly Caught.mp3','Peter Gabriel - In Your Eyes.mp3', 'Strongman-GbHUAFd5Xcw.mp3', 'XTC - Another Satellite [HD].mp3']
+
       tracks.map(v=> v='tracks/'.v)
 
 
