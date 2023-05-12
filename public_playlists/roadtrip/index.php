@@ -516,7 +516,7 @@
 	      'Alone in Kyoto-I0SVd_Q5wIg.mp3','massive attack - black milk.mp3','Orinoco Flow (2009 Remaster).mp3','Rapture (Remastered 2001).mp3','The Staunton Lick-6Ls_XYQuGJU.mp3',
 	      'Animotion - Obsession.mp3','Massive Attack - Butterfly Caught.mp3','Peter Gabriel - In Your Eyes.mp3', 'Strongman-GbHUAFd5Xcw.mp3', 'XTC - Another Satellite [HD].mp3']
 
-      tracks.map(v=> v='tracks/'.v)
+      tracks.map(v=> 'tracks/'+v)
 
 
       vid = document.createElement('video')
