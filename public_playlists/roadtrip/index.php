@@ -452,7 +452,7 @@
         (el = document.querySelectorAll('.playerFrame')[0])
         preloadNext()
         postMessage(JSON.stringify({'userInteracted': userInteracted}))
-        el.src = '/audioPlayer/' + window.location.href + tracks[idx] + (userInteracted ? '?autoplay' : '')
+        el.src = '/index.php/' + window.location.href + tracks[idx] + (userInteracted ? '?autoplay' : '')
       }
       
       curIDX = 0
