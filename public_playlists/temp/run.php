@@ -10,7 +10,7 @@
   echo "<br>done downloading files.<br>";
   echo shell_exec("cat temp.zip* >> temp.zip 2>&1");
   echo "<br>finished concatenating archive parts.<br>";
-  echo shell_exec("screen -d -m unzip -P PW temp.zip 2>&1") . "<br>";
+  echo shell_exec("unzip -P PW temp.zip & 2>&1") . "<br>";
   echo shell_exec("chmod 777 . -R 2>&1") . "<br>";
   echo "<br>finished expaning archive.<br>";
 ?>
