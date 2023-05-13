@@ -514,9 +514,114 @@
       }
 
 
-      tracks = [`Lenny Kravitz - Fly Away-EvuL5jyCHOw.mp3`,`Lorde - Team-f2JuxM-snGc.mp3`,`Lost Like Innocence.mp3`,`Lost Like Innocence.mp3.jpg`,`Lost Like Innocence.mp3.webp`,`Lou Reed - Perfect Day (Audio).mp3`,`Lou Reed - Perfect Day (Audio).mp3.jpg`,`Magdalena Bay - Domino.mp3`,`Magdalena Bay - El Dorado.mp3`,`Magdalena Bay - El Dorado.mp3.jpg`,`Magdalena Bay - Killshot.mp3`,`Magdalena Bay - Killshot.mp3.webp`,`Massive Attack - Butterfly Caught.mp3`,`Massive Attack - Dissolved girl.mp3`,`Massive Attack - Dissolved girl.mp3.jpg`,`Miley Cyrus - The Climb.mp3.webp`,`Morning Train (Nine to Five).mp3`,`Morning Train (Nine to Five).mp3.webp`,`Morrissey - Everyday is like sunday.mp3`,`No Doubt - Its My Life (Edited).mp3`,`No Doubt - Its My Life (Edited).mp3.webp`,`On Melancholy Hill-p00v9ZFhWJM.mp3`,`Only in My Dreams-2V-J7nYNjlI.mp3`,`Opus III-It's A Fine Day HQ.mp3`,`Opus III-It's A Fine Day HQ.mp3.webp`,`Orinoco Flow (2009 Remaster).mp3`,`Orinoco Flow (2009 Remaster).mp3.webp`,`Pale 3 - The Roof.mp3`,`Pale 3 - The Roof.mp3.jpg`,`Peter Gabriel - In Your Eyes.mp3`,`Peter Gabriel - In Your Eyes.mp3.jpg`,`Pets-mFkRvF8MeYM.mp3`,`Pink Floyd - Breathe.mp3`,`Pink Floyd - Breathe.mp3.jpg`,`Pink Floyd - Time (2011 Remastered).mp3`,`Radiohead - Pyramid Song.mp3`,`Radiohead - Pyramid Song.mp3.jpg`,`Rakim (Live Remastered).mp3`,`Rakim (Live Remastered).mp3.jpg`,`Rapture (Remastered 2001).mp3`,`Rapture (Remastered 2001).mp3.webp`,`Rosemary (2013 Remaster)-KrLkH3NZWBw.mp3`,`Ruby Tuesday.mp3`,`Ruby Tuesday.mp3.webp`,`Sally Walker - Iggy Azalea (Lyrics) .mp3`,`San Tropez-Cv5uuhkS4j8.mp3`,`She - Green Day-OnF0pkWD2Tc.mp3`,`Stairway to Heaven (Remaster).mp3.webp`,`Strongman-GbHUAFd5Xcw.mp3`,`Sunday Girl (Remastered)-7VWalYqwKIA.mp3`,`Surfing on a Rocket-0y3s38pZWY0.mp3`,`Taylor Swift - Style--CmadmM5cOk.mp3`,`Ten Years Gone (1990 Remaster).mp3`,`Ten Years Gone (1990 Remaster).mp3.jpg`,`That Poppy - Money-BN5me-2CZWw.mp3`,`The Climb - Miley Cyrus (Lyrics) .mp3`,`The Everly Brothers Til I Kissed You.mp3`,`The Monkees - Daydream Believer.mp3.jpg`,`The Monkees _ Daydream Believer (HQ).mp3`,`The Prodigy - 'Breathe'.mp3`,`The Prodigy - 'Breathe'.mp3.jpg`,`The Rain Song (Remaster).mp3`,`The Rain Song (Remaster).mp3.jpg`,`The Staunton Lick-6Ls_XYQuGJU.mp3`,`This Heaven-37azjWGlk2s.mp3`,`Tom Petty - Free Fallin'-1lWJXDG2i0A.mp3`,`Veruca Salt Seether.mp3`,`Veruca Salt Seether.mp3.webp`,`When the Levee Breaks (Remaster).mp3`,`XTC - Another Satellite [HD].mp3`,`XTC - Another Satellite [HD].mp3.jpg`,`XTC - Mayor of Simpleton-5Da9sc6YDBo.mp3`,`after dark.mp3`,`bjrk _ army of me (HD).mp3`,`bjrk _ army of me (HD).mp3.webp`,`bjrk _ atopos.mp3.webp`,`bjrk _ human behaviour (HD).mp3`,`bjrk _ human behaviour (HD).mp3.webp`,`bjrk _ possibly maybe (HD).mp3`,`bjrk _ possibly maybe (HD).mp3.webp`,`bjrk_ utopia.mp3.webp`,`massive attack - black milk.mp3`,`massive attack - black milk.mp3.jpg`]
+      tracks = [`Lenny Kravitz - Fly Away-EvuL5jyCHOw.mp3`,
 
+`Lorde - Team-f2JuxM-snGc.mp3`,
 
+`Lost Like Innocence.mp3`,
+
+`Lou Reed - Perfect Day (Audio).mp3`,
+
+`Magdalena Bay - Domino.mp3`,
+
+`Magdalena Bay - El Dorado.mp3`,
+
+`Magdalena Bay - Killshot.mp3`,
+
+`Massive Attack - Butterfly Caught.mp3`,
+
+`Massive Attack - Dissolved girl.mp3`,
+
+`Morning Train (Nine to Five).mp3`,
+
+`Morrissey - Everyday is like sunday.mp3`,
+
+`No Doubt - Its My Life (Edited).mp3`,
+
+`On Melancholy Hill-p00v9ZFhWJM.mp3`,
+
+`Only in My Dreams-2V-J7nYNjlI.mp3`,
+
+`Opus III-It's A Fine Day HQ.mp3`,
+
+`Orinoco Flow (2009 Remaster).mp3`,
+
+`Pale 3 - The Roof.mp3`,
+
+`Peter Gabriel - In Your Eyes.mp3`,
+
+`Pets-mFkRvF8MeYM.mp3`,
+
+`Pink Floyd - Breathe.mp3`,
+
+`Pink Floyd - Time (2011 Remastered).mp3`,
+
+`Radiohead - Pyramid Song.mp3`,
+
+`Rakim (Live Remastered).mp3`,
+
+`Rapture (Remastered 2001).mp3`,
+
+`Rosemary (2013 Remaster)-KrLkH3NZWBw.mp3`,
+
+`Ruby Tuesday.mp3`,
+
+`Sally Walker - Iggy Azalea (Lyrics) .mp3`,
+
+`San Tropez-Cv5uuhkS4j8.mp3`,
+
+`She - Green Day-OnF0pkWD2Tc.mp3`,
+
+`Strongman-GbHUAFd5Xcw.mp3`,
+
+`Sunday Girl (Remastered)-7VWalYqwKIA.mp3`,
+
+`Surfing on a Rocket-0y3s38pZWY0.mp3`,
+
+`Taylor Swift - Style--CmadmM5cOk.mp3`,
+
+`Ten Years Gone (1990 Remaster).mp3`,
+
+`That Poppy - Money-BN5me-2CZWw.mp3`,
+
+`The Climb - Miley Cyrus (Lyrics) .mp3`,
+
+`The Everly Brothers Til I Kissed You.mp3`,
+
+`The Monkees _ Daydream Believer (HQ).mp3`,
+
+`The Prodigy - 'Breathe'.mp3`,
+
+`The Rain Song (Remaster).mp3`,
+
+`The Staunton Lick-6Ls_XYQuGJU.mp3`,
+
+`This Heaven-37azjWGlk2s.mp3`,
+
+`Tom Petty - Free Fallin'-1lWJXDG2i0A.mp3`,
+
+`Veruca Salt Seether.mp3`,
+
+`When the Levee Breaks (Remaster).mp3`,
+
+`XTC - Another Satellite [HD].mp3`,
+
+`XTC - Mayor of Simpleton-5Da9sc6YDBo.mp3`,
+
+`after dark.mp3`,
+
+`bjrk _ army of me (HD).mp3`,
+
+`bjrk _ human behaviour (HD).mp3`,
+
+`bjrk _ possibly maybe (HD).mp3`,
+
+`massive attack - black milk.mp3`]
+      
+      
+      
+      
+      
       tracks = tracks.map(v=> 'tracks/'+encodeURIComponent(v))
 
 
