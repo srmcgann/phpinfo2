@@ -10,7 +10,7 @@
       body, html{
         border: 0;
         background-color: #0000;
-        background-image: url(https://jsbot.whitehot.ninja/uploads/hVMqI.jpg);
+        background-image: url(https://jsbot.cantelope.org/uploads/hVMqI.jpg);
         background-repead: no-repeat;
         background-attachment: fixed;
         background-size: 100vw 100vh;
@@ -74,7 +74,7 @@
         height: 35px;
         margin-left: 15px;
         margin-right: 15px;
-        background-image: url(https://jsbot.whitehot.ninja/uploads/XeGsK.png);
+        background-image: url(https://jsbot.cantelope.org/uploads/XeGsK.png);
       }
       .songButton{
         border-radius: 15px;
